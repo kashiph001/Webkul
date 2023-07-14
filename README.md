@@ -16,7 +16,7 @@ Before proceeding, ensure that you have the following prerequisites installed on
 3. Execute the following command to clone the repository:
 
 ```shell
-git clone https://github.com/kashiph001/unravel-app.git
+git clone https://github.com/kashiph001/Webkul.git
 ```
 
 4. Press Enter to execute the command.
